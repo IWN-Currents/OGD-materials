@@ -12,7 +12,7 @@ Materials include:
   * Lessons Learned;
   * Service API Documentation for the<a> Metadata Catalog Services;
   * 52° North SOS Installation, Ingestion and Notes;
-    * Ingestion code (separate repository coming soon)
+    * Example <a href="https://github.com/IWN-Currents/OGD-materials/blob/master/IWN-ingest-20170524.zip">ingestion code and supporting files</a> in single .zip file (separate repository coming soon)
   * User Stories;
   * Currents Discovery Tool Features and Enhancements;
   
