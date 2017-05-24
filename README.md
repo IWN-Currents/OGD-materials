@@ -1,8 +1,10 @@
 # OGD-materials
-This repository provides access to supporting materials for a submittal to the 
+This repository provides access to supporting materials for the article <a href="http://rdcu.be/sYJE">
+"Pilot Implementation of the US EPA Interoperable Watershed Network"</a>, a submittal to the 
 special issue "Geospatial Sensor Web - Concepts, Technologies and Applications"
-in the Springer Journal of Open Geospatial Data, Software and Standards titled
-"Pilot Implementation of the US EPA Interoperable Watershed Network"
+in the Springer Journal of <a href="https://opengeospatialdata.springeropen.com/">
+Open Geospatial Data, Software and Standards</a>.
+
 
 Materials include:
 
